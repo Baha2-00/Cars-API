@@ -1,0 +1,10 @@
+2024-07-08 17:29:25.443 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 17:30:22.803 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 18:21:55.753 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 18:22:03.575 +03:00 [INF] GetAllUsers Was Called
+2024-07-08 18:22:03.576 +03:00 [INF] GetAllUsers Was Returned
+2024-07-08 19:43:30.586 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 20:00:32.382 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 20:02:26.989 +03:00 [INF] Food Recipe API Has been Launched Successfully
+2024-07-08 20:02:56.119 +03:00 [INF] Get car Was Called
+2024-07-08 20:02:56.119 +03:00 [INF] Get car Was Returned
